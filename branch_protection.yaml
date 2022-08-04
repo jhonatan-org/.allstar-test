@@ -1,8 +1,8 @@
 optConfig:
   optOutStrategy: true
-action: issue
+action: log
 enforceDefault: true
 requireApproval: true
-approvalCount: 1
+approvalCount: 2
 blockForce: true
 requireSignedCommits: true
