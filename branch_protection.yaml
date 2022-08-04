@@ -1,6 +1,6 @@
 optConfig:
   optOutStrategy: true
-action: log
+action: issue
 enforceDefault: true
 requireApproval: true
 approvalCount: 2
