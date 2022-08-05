@@ -1,3 +1,2 @@
 optConfig:
   optOutStrategy: true
-  optOutPrivateRepos: true
